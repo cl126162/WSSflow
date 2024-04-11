@@ -18,8 +18,7 @@ pip install einops==0.6.0 matplotlib==3.6.0 argcomplete==2.0.0 h5py==3.8.0 tqdm=
 Pretrained models can be found in `./pretrained_ckpts`. 
 
 ## Required Data
-To train WSSflow, you will need to download the required datasets. 
-* [Training and validation dataset]()
+To train WSSflow, you will need to download the required [datasets](https://doi.org/10.5281/zenodo.10047202)
 
 ## Evaluation
 You can evaluate a pretrained WSSflow model using `testing.py`. The following command is an example for inference on a minimal test dataset:
