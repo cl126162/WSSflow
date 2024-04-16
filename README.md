@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/785018550.svg)](https://zenodo.org/doi/10.5281/zenodo.10981067)
 ## WSSflow - Uncovering wall-shear stress dynamics from neural-network enhanced fluid flow measurements
 
 ![Representative image](./res/overview.PNG)
